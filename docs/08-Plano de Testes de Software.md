@@ -1,6 +1,6 @@
-# Plano de Testes de Software
 
-## Plano de teste para o aplicativo Kontas
+
+# Plano de teste para o aplicativo Kontas
 
 #### Escopo do teste
 * Teste do aplicativo
