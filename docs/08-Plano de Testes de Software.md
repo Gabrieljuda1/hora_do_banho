@@ -1,5 +1,3 @@
-
-
 # Plano de teste para o aplicativo Kontas
 
 #### Escopo do teste
