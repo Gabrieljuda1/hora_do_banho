@@ -1,6 +1,6 @@
 # Plano de teste para o aplicativo Kontas
 
-#### Escopo do teste
+### Escopo do teste
 * Teste do aplicativo
 * Teste das funcionalidades principais do aplicativo, incluindo:
 1. Adição de contas a pagar e a receber
